@@ -1,0 +1,19 @@
+This is a Quiz app developed by Atulya Kumar as a project at MyWBUT Summer Training(Python Programming). This app is based on tkinter and API. 
+#Some features of this app are:
+1. User have to login
+2. Registration available if user is not registered
+3. User can select from the different difficulty level available
+3. Registerd User can change his/her password after logging in
+4. User data is saved such as highscore and total games played
+5. User can check leaderboards
+
+TO play this 
+1. Registered users have to login with proper credentials(email id and password)
+2. If not registered you have option of registering yourself you just need a email id
+3. If your email and password are correct you will be redirected to home screen where you will see different options
+4. After succesfully logging in press new game button on home screen
+5. On next screen you have to select difficulty(Easy, Normal, Hard)
+6. After Selecting difficulty your quiz starts
+7. Quiz consist of total 10 questions
+8. After completing the quiz your total score in that round is displayed
+9. you can also see leaderboard from that screen.
